@@ -20,7 +20,6 @@ I enjoy learning new technologies and create practical solutions through program
 ### NLP-Applied Similarity Detection on Student Researches
 NLP-based system that analyze thesis title and abstracts using TF-IDF and Cosine Similarity
 **Technologies:** Python, MySQL, TF-IDF, Cosine Similarity
-## Screenshoots:
 ![Homepage](homepage.png)
 
 ### MelodyMind: Music Recommendation System

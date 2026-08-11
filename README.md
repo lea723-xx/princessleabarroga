@@ -26,7 +26,7 @@ NLP-based system that analyze thesis title and abstracts using TF-IDF and Cosine
 ### MelodyMind: Music Recommendation System
 Music Recommendation System designed to suggest songs based on a user's preferences and interest. It also provides personalized song recommendations that help users discover music that matches their taste and mood.
 **Technologies:** HTML, CSS, JavaScript, Python, MySQL, Flask
-
+![Homepage](MRHomepage.png)
 
 ### BUS Recommendation System
 A web-based system that allows user to view available bus schedules, monitor seat availability, and reserve their preferred travel time and seat. The system helps make the booking process more convenient, organized and efficient. 

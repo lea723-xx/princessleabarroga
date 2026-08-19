@@ -41,4 +41,4 @@ Bagbag Solsona National High School
 - Email: leabrrg@gmail.com
 - LinkedIn: Princess Lea Barroga (https://ph.linkedin.com/in/princess-lea-barroga-742460412)
 - Facebook: Lea Barroga 
-  
+- Phone Number: 09925201190
